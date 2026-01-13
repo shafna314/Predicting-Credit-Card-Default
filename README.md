@@ -1,1 +1,1 @@
-Analyzed customer data to predict credit card default using a binary classification approach. Performed exploratory data analysis, feature encoding, missing value treatment, and feature scaling. Built and evaluated Logistic Regression and Random Forest models using Scikit-learn.Used Pandas, Matplotlib, Seaborn, and Imbalanced-learn for analysis and model evaluation.
+
